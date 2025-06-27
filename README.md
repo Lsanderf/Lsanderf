@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucca Sander (Lsanderf)
+# 👋 Olá! Eu sou o Lucca Sander
 
 ---
 🎓 Estudante de Ciência da Computação  
